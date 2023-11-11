@@ -65,7 +65,7 @@ if bashio::config.true 'zigbee_herdsman_debug'; then
     export NODE_OPTIONS=--trace-warnings
 fi
 export NODE_PATH=/app/node_modules
-export ZIGBEE2MQTT_CONFIG_FRONTEND='{"port": 8099}'
+export ZIGBEE2MQTT_CONFIG_FRONTEND='{"port": 8100}'
 
 # Expose addon configuration through environment variables.
 function export_config() {
