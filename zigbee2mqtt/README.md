@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/zigbee2mqtt/hassio-zigbee2mqtt">
-        <img width="150" height="150" src="https://github.com/jdbwlj/hassio-zigbee2mqtt-1/blob/master/zigbee2mqtt/cangji.jpg">
+        <img width="150" height="150" src="zigbee2mqtt/cangji.jpg">
     </a>
     <br>
     <br>
