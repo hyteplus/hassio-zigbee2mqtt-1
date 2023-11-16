@@ -1,9 +1,4 @@
 <div align="center">
-    <a href="https://github.com/zigbee2mqtt/hassio-zigbee2mqtt">
-        <img width="150" height="150" src="https://github.com/jdbwlj/hassio-zigbee2mqtt-1/blob/master/zigbee2mqtt/cangji.svg">
-    </a>
-    <br>
-    <br>
     <div style="display: flex;">
         <a href="https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/actions?query=workflow%3ACI">
             <img src="https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/workflows/CI/badge.svg">
@@ -26,8 +21,6 @@
 </div>
 
 # Home Assistant Add-on: Zigbee2MQTT-1
-
-![image](https://github.com/jdbwlj/hassio-zigbee2mqtt-1/blob/master/zigbee2mqtt/%E6%AD%A3%E7%A1%AE%E4%BF%AE%E6%94%B9%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%96%B9%E5%BC%8F.png)
 
 MQTT:
 ```shell
