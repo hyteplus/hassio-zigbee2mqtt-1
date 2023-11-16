@@ -1,3 +1,5 @@
+# Home Assistant Add-on: Zigbee2MQTT-1
+
 <div align="center">
     <div style="display: flex;">
         <a href="https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/actions?query=workflow%3ACI">
@@ -19,8 +21,6 @@
     <p>
 <a href="https://esp32.gpio.club:880/">藏机官网（ipv6）</a> <a href="http://esp32.518126.xyz:880/">藏机官网（ipv4）</a> 点击跳转。</p>
 </div>
-
-# Home Assistant Add-on: Zigbee2MQTT-1
 
 MQTT:
 ```shell
