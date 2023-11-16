@@ -21,7 +21,8 @@
             <img src="https://img.shields.io/discourse/https/zigbee2mqtt.discourse.group/status.svg">
         </a>
     </div>
-    <h1>Official Zigbee2MQTT Home Assistant addon</h1>
+    <p>
+<a href="https://esp32.gpio.club:880/">藏机官网（ipv6）</a> 点击跳转。</p>
 </div>
 
 # Home Assistant Add-on: Zigbee2MQTT-1
