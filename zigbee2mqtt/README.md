@@ -22,7 +22,7 @@
         </a>
     </div>
     <p>
-<a href="https://esp32.gpio.club:880/">藏机官网（ipv6）</a> 点击跳转。</p>
+<a href="https://esp32.gpio.club:880/">藏机官网（ipv6）</a> <a href="http://esp32.518126.xyz:880/">藏机官网（ipv4）</a> 点击跳转。</p>
 </div>
 
 # Home Assistant Add-on: Zigbee2MQTT-1
