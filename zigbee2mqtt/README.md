@@ -19,7 +19,7 @@
         </a>
     </div>
     <p>
-<a href="https://esp32.gpio.club:880/">藏机官网（ipv6）</a> <a href="http://esp32.518126.xyz:880/">藏机官网（ipv4）</a> 点击跳转。</p>
+<a href="https://www.gpio.club/">藏机官网</a> 点击跳转。</p>
 </div>
 
 MQTT:
@@ -47,7 +47,8 @@ serial:
 channel:
 ```shell
 advanced:
-  channel: 15
+  channel: 11
+  pan_id: 6754
   #信道要分开 防止干扰 选15 20 25
   #z2m网页UI设置步骤z2m设置→高级→ZigBee channel
 ```
