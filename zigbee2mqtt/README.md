@@ -25,7 +25,7 @@
 MQTT:
 ```shell
 base_topic: zigbee2mqttA
-#base_topic多加一个1 区分多开主题
+#base_topic多加一个A 区分多开主题
 server: mqtt://localhost:1883
 #mqtt在Home Assistantant 安装，localhost是Home Assistantant的ip,端口1883
 user: mqtt
