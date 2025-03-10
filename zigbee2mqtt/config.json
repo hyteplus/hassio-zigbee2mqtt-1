@@ -1,4 +1,4 @@
-{
+ber{
   "name": "Zigbee2MQTTA",
   "version": "1.39.0-1",
   "slug": "zigbee2mqtt",
@@ -65,7 +65,7 @@
     },
     "serial": {
       "port": "str?",
-      "adapter": "match(zstack|deconz|zigate|ezsp)?",
+      "adapter": "match(ember|zstack|deconz|zigate|ezsp)?",
       "baudrate": "int?",
       "rtscts": "bool?"
     }
