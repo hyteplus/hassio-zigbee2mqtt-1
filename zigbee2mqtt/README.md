@@ -36,8 +36,7 @@ client_id: zigbee2mqttA
 
 serial:
 ```shell
-#adapter: ezsp
-adapter: zstack
+adapter: ebmer
 port: tcp://[Gateway_IP]:[Port]
 ```
 
