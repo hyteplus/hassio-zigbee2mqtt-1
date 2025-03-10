@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Zigbee2MQTT-1
+# Home Assistant Add-on: Zigbee2MQTTA
 
 <div align="center">
     <div style="display: flex;">
@@ -24,13 +24,13 @@
 
 MQTT:
 ```shell
-base_topic: zigbee2mqtt1
+base_topic: zigbee2mqttA
 #base_topic多加一个1 区分多开主题
 server: mqtt://localhost:1883
 #mqtt在Home Assistantaz 安装，localhost是Home Assistantaz的ip,端口1883
 user: mqtt
 password: mqtt
-client_id: zigbee2mqtt1
+client_id: zigbee2mqttA
 #client_id多加一个1 区分多开mqtt客户端id
 ```
 
