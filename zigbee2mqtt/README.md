@@ -27,7 +27,7 @@ MQTT:
 base_topic: zigbee2mqttA
 #base_topic多加一个1 区分多开主题
 server: mqtt://localhost:1883
-#mqtt在Home Assistantaz 安装，localhost是Home Assistantaz的ip,端口1883
+#mqtt在Home Assistantant 安装，localhost是Home Assistantant的ip,端口1883
 user: mqtt
 password: mqtt
 client_id: zigbee2mqttA
@@ -36,7 +36,8 @@ client_id: zigbee2mqttA
 
 serial:
 ```shell
-adapter: ezsp
+#adapter: ezsp
+adapter: zstack
 port: tcp://[Gateway_IP]:[Port]
 ```
 
