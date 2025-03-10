@@ -19,7 +19,7 @@
         </a>
     </div>
     <p>
-<a href="https://www.gpio.club/">藏机官网</a> 点击跳转。</p>
+<a href="https://www.gpio.club/">自行FORK，不要升级！</a> 点击跳转。</p>
 </div>
 
 MQTT:
