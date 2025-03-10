@@ -1,5 +1,5 @@
-ber{
-  "name": "Zigbee2MQTTA",
+{
+  "name": "Zigbee2mqttA",
   "version": "1.39.0-1",
   "slug": "zigbee2mqtt",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
